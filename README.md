@@ -7,5 +7,5 @@
  * The link to the original "Spanish Wine Quality" dataset used on this analysis and prediction is available below:
  https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset?datasetId=2125691&sortBy=dateRun&tab=profile 
  
- * Code and both observed and predicted datasets are attached. Please feel free for comments or and adding and sharing your knowledge.
+ * Code and both observed and predicted datasets are attached. Please feel free for comments or add and share your knowledge.
  
