@@ -1,4 +1,4 @@
-# Wines from Spain
+# Wines from Spain Price Prediction
 
             A price prediction model of wines from Spain
  
