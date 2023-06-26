@@ -1,4 +1,4 @@
-# Wines from Spain - Price Prediction
+Spanish Wines - Price Prediction (Python - Machine Learning)
 
             A price prediction model of wines from Spain
  
